@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RahulBaabu
 - 👀 I’m interested in learning programming language
-- 🌱 I’m currently learning 1st year cse 
+- 🌱 I’m currently learning 4th year cse 
 -
 - 
 
